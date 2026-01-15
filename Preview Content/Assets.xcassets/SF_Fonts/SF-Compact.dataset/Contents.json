@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "SF-Compact.dmg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
