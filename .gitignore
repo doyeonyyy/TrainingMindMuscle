@@ -5,3 +5,54 @@ xcuserdata/
 *.xcuserstate
 *.xcworkspace
 .DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Xcode Server
+*.xccheckout
+*.xcscmblueprint
+
+# User settings
+*.DS_Store
+
+# Archives
+*.xcarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Playgrounds
+playground.swiftpm
+
+# Temporary files
+*.swp
+*.swx
